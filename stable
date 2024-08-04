@@ -1,5 +1,5 @@
 {
- "version": "4.0.0-beta.8",
+ "version": "4.0.0",
  "_": [
    { "min": "*",            "url": "https://github.com/sannybuilder/dev/releases/download/v4.0.0/SannyBuilder-v4.0.0.zip" }
  ],
