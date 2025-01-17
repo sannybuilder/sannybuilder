@@ -1,9 +1,9 @@
 {
-  "version": "4.0.1-alpha.9",
+  "version": "4.0.1-alpha.8",
   "_": [
     {
       "min": "4.0.0",
-      "url": "https://github.com/sannybuilder/dev/releases/download/patches/SannyBuilder-v4.0.1-alpha.9.patch.zip"
+      "url": "https://github.com/sannybuilder/dev/releases/download/patches/SannyBuilder-v4.0.1-alpha.8.patch.zip"
     },
     {
       "min": "*",
